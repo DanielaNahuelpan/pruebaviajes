@@ -14,6 +14,14 @@
     background-color: black;
 }
 
+.containerdestacados {
+    background-color: black;
+}
+
+.containercontacto {
+    background-color: black;
+}
+
 .row.my-5.text-white {
     padding-top: 05px;
     padding-bottom: 05px;
@@ -51,13 +59,10 @@ hr {
     margin-left: 50px;
 }
 
-.borderline {
-    width: 1800px;
-    margin-right: 40px;
-    margin-left: 40px;
-}
-
 footer {
     background-color: rgba(69, 173, 218, 0.964);
 }
 
+html {
+    scroll-behavior: smooth;
+}
