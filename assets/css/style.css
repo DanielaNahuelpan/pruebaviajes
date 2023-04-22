@@ -51,23 +51,18 @@
     object-fit: cover;
 }
 
-/* .linea1 {
-    background-color: grey;
-} */
-
-hr {
+/* hr {
     width: 1190px;
-    
 }
 
 .mb-5 {
     margin-left: 50px;
-}
+} */
 
 footer {
     background-color: rgba(69, 173, 218, 0.964);
 }
 
-html {
+/* html {
     scroll-behavior: smooth;
-}
+} */
