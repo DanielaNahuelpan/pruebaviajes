@@ -51,8 +51,13 @@
     object-fit: cover;
 }
 
+/* .linea1 {
+    background-color: grey;
+} */
+
 hr {
     width: 1190px;
+    
 }
 
 .mb-5 {
