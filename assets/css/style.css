@@ -5,9 +5,18 @@
     font-family: 'Raleway', sans-serif;
 }
 
-.navbar-brand img {
+/* .navbar-brand img {
     width: 05%;
     height: auto;
+} */
+
+nav img {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar {
+    position: absolute !important;
 }
 
 .containerquienessomos{
